@@ -388,7 +388,7 @@ header .fa-bars{
     display: flexbox;
     align-items: center;
     min-height: 90vh;
-    background:url(../images/contact-img.jpg) no-repeat;
+    background:url(contact-img.jpg) no-repeat;
     background-size:100% ,40%;
     background-position: center;
 }
