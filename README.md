@@ -28,17 +28,25 @@ The Interior Spaces website provides a visually appealing and user-friendly inte
 ## Project Structure
 
 interior-spaces-website/
+
 │
 ├── index.html
+
 ├── portfolio.html
+
 ├── services.html
+
 ├── contact.html
+
 ├── css/
 │ ├── styles.css
-│ └── bootstrap.min.css
+
 ├── js/
 │ ├── script.js
-│ └── jquery.min.js
+
+
 ├── img/
+
 │ └── (images used in the website)
+
 └── README.md
