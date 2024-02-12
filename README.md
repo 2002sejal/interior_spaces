@@ -50,3 +50,15 @@ interior-spaces-website/
 │ └── (images used in the website)
 
 └── README.md
+
+# RESULT:
+![image](https://github.com/2002sejal/interior_spaces-OBSIP/assets/112888496/d53e8802-938c-4a40-85fe-dd8446229b65)
+![image](https://github.com/2002sejal/interior_spaces-OBSIP/assets/112888496/63275586-a822-4aaa-9d1a-07b83240272a)
+![image](https://github.com/2002sejal/interior_spaces-OBSIP/assets/112888496/3f43d4fb-1d2a-4b2d-b6b1-3558eee29ade)
+![image](https://github.com/2002sejal/interior_spaces-OBSIP/assets/112888496/2ebc0c86-1d9f-4a6d-82e3-ba636cdc804b)
+![image](https://github.com/2002sejal/interior_spaces-OBSIP/assets/112888496/3f164f14-4722-4554-b3fe-705ca8d261e3)
+
+
+
+
+
